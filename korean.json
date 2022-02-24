@@ -1,0 +1,26 @@
+{
+    "startup": {
+        "PERMISSION_REQUIRED": ["봇에 관리자 권한을 제공하십시오."],
+        "MISSING_ROLE_IDS": ["설정의 모든 세부 정보를 입력하십시오.json, 헷갈릴 경우 이 비디오를 보십시오:"],
+        "SETUP_MESSAGE_1": ["서버에 Mod Mail 봇을 설정하는 중입니다."],
+        "SETUP_MESSAGE_2": ["설치가 완료되었습니다. 'Mod Mail' 이름으로 새 범주를 만듭니다.'"],
+        "CONNECTED": ["{{name}은(는) {{memberCount}명의 멤버를 보면서 불협화음과 연결됩니다."]
+    },
+    "system": {
+        "MEMBER_NOT_FOUND": "Unable to find the member ({{member}}) in the server.",
+        "PARENT_MISSING": "Unable to get parent ID so backing up.",
+        "CHANNEL_TOPIC": "This mail is created for helping **{{member}}**",
+        "SUCCESS_EMBED": {
+            "AUTHOR": ["MAIL OPENED"],
+            "DESCRIPTION": ["Conversation is now started, you will be contacted by supporters soon :D"]
+        },
+        "DETAILS_EMBED": {
+            "AUTHOR": ["DETAILS"],
+            "DESCRIPTION": ["{{content}}"]
+        },
+        "DELETE_EMBED": {
+            "AUTHOR": ["메일 삭제됨"],
+            "DESCRIPTION": ["진행자가 메일을 삭제했으며, 문제가 있는 경우 여기로 메시지를 발송하여 메일을 다시 열 수 있습니다."]
+        }
+    }
+}
