@@ -1,9 +1,8 @@
-# Basic Discord Modmail Bot in Discord.js v13
+# Tora Mod Mail Bot
 
 ### 🔥 Features
 - Its very easy to start and end session
 - Highly configurable 
-- Made by ctk ( yes, its a feature xD )
 - Language support ( need to do small changement )
 
 ### 🤔 How to setup?
